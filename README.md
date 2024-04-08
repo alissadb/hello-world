@@ -13,6 +13,7 @@ Before you begin, ensure you have installed the following:
 - [Minikube](https://minikube.sigs.k8s.io/docs/start/)
 
 ## Installation
+⚠️ Warning: Currently, this project is only compatible with macOS and Linux.
 
 1. Create a virtual environment using Poetry:
 
